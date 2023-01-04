@@ -103,17 +103,17 @@
     "webpack-stream": "^4.0.0"
   },
   "dependencies": {
-    "smartcharts-beta": "^0.8.0-betam.11",
     "binary-style": "^0.2.4",
     "blockly": "github:google/blockly#59e5ac6",
     "clone": "aminmarashi/clone#d97b4f",
     "commander": "^2.20.0",
     "concat-stream": "^2.0.0",
-    "core-js": "^2.6.5",
+    "core-js": "^3.27.1",
     "gh-pages": "^2.0.1",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "react-render-html": "^0.6.0",
-    "react-transition-group": "^4.0.1"
+    "react-transition-group": "^4.0.1",
+    "smartcharts-beta": "^0.8.0-betam.11"
   }
 }
